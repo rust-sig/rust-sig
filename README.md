@@ -1,6 +1,18 @@
 # rust-sig
-Home of the Rust Special Interest Group (SIG) at the Eclipse Foundation.
+Home of the Rust Special Interest Group (SIG) at the Eclipse Foundation within the Software Defined Vehicle (SDV) Working Group.
 
+GitHub Team: [@rust-sig/wg-members](https://github.com/orgs/rust-sig/teams/wg-members)
+
+## Meetings
+
+* [Meeting info](../MEETINGS.md)
+* [Meeting minutes](./meetings/)
+
+## Leads
+
+* Florian Gilcher ([@skade][]), ferrous-systems
+
+GitHub Team: tbd
 
 # Mission Statement and General Info
 ## Rationale
