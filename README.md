@@ -3,9 +3,9 @@
 Rust is a rising star among the programming languages used in embedded and mission-critical systems. In the July 2024 Tiobe Index, it leaped to a new record position, jumping from rank #17 to #13. In the automotive industry, Rust adoption has increased tremendously over recent years. Within the Eclipse SDV, several projects are being written in Rust, e.g. Eclipse SommR or Eclipse Ankaios. In addition, Rust provides a rich ecosystem of open source libraries and tools supported by an active community.
 Recognising Rust’s potential to revolutionise the development of safety-certifiable open source software for automakers, this SIG aims to be the premier hub for driving the adoption of the Rust programming language in the automotive industry.
 
-Rust is a Special Interest Group under the Software Defined Vehicle Working Group.  For more information on joining and membership, please visit the Rust SIG page.
+Rust is a Special Interest Group under the Software Defined Vehicle Working Group.  For more information on joining and membership, please visit the [Rust SIG page](https://sdv.eclipse.org/special-interest-groups/rust/).
 
-SDV Working Group SIGs operate as a non-governing body of the Working Group and inherit and adhere to the SDV Working Group Charter.  SIG goals must align with the goals of the Working Group.
+SDV Working Group SIGs operate as a non-governing body of the Working Group and inherit and adhere to the [SDV Working Group Charter](https://www.eclipse.org/org/workinggroups/sdv-charter.php).  SIG goals must align with the goals of the Working Group.
 
 GitHub Team: [@rust-sig/wg-members](https://github.com/orgs/rust-sig/teams/wg-members)
 
@@ -58,7 +58,7 @@ Like working groups, it is incumbent that:
 
 * any working group member may join  
 * agendas and minutes of all meetings be made public
-* SIGs adhere to the policies of the Eclipse Foundation, including Antitrust, Intellectual Property, Code of Conduct, as outlined in working group charters and the Working Group Process.
+* SIGs adhere to the policies of the Eclipse Foundation, including Antitrust, Intellectual Property, Code of Conduct, as outlined in working group charters and the [Working Group Process](https://www.eclipse.org/org/workinggroups/industry_wg_process.php).
 
 ## Materials
 
@@ -68,4 +68,4 @@ Special Interest Groups must produce agendas and minutes for all meetings. SIGs 
 
 Before you contribute, please ensure you have electronically signed the Eclipse Contributor Agreement (ECA).
 
-* <http://www.eclipse.org/legal/ECA.php>
+* [http://www.eclipse.org/legal/ECA.php](http://www.eclipse.org/legal/ECA.php)
