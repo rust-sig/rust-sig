@@ -9,7 +9,7 @@ The Eclipse SDV Rust SIG hosts approximately 30 minute watercooler talks from fo
 | Building safe Rust Bindings atop ASIL B C++ Middleware | Jan 20, 2026 | Markus Hosch / BMW |  |
 | What *don’t* you know about Rust \+ Security? | Feb 3, 2026 | Pete LeVasseur / Woven by Toyota |  |
 | Rust \+ Bazel \+ Caching: Oh My\! | Feb 17, 2026 | Eric McBride / Toyota Connected North America |  |
-| Rust \+ Safety-Certification: The Reality | Mar 3, 2026 | Daniel Silverstone / Codethink |  |
+| Measuring the gap between C and Rust | Mar 3, 2026 | Daniel Silverstone / Codethink |  |
 | Eclipse Zenoh, and how it makes use of `unsafe` | Mar 17, 2026 | ChenYing Kuo (CY) / ZettaScale |  |
 | Putting Rust into practice in OpenSOVD | Mar 31, 2026 | Elena Gantner / Mercedes Benz |  |
 | A Rant about C++ \<=\> Rust Interop | Apr 14, 2026 | Markus Hosch / BMW |  |
