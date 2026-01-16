@@ -4,6 +4,12 @@ Looking for the upcoming schedule for our Watercooler Chat-style talks? You’re
 
 The Eclipse SDV Rust SIG hosts approximately 30 minute watercooler talks from folks working on interesting things using Rust.
 
+## Meeting Details
+
+Please see [here](../MEETINGS.md) for more and how to join!
+
+## Scheduled Talks
+
 ✅ = confirmed ability to attend in this slot
 
 | Title | Date | Presenter | Referenced materials |
