@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Rome
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+X-LIC-LOCATION:Europe/Rome
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Rome:20260120T160000
+DTEND;TZID=Europe/Rome:20260120T170000
+RRULE:FREQ=WEEKLY;WKST=MO;INTERVAL=2;BYDAY=TU
+DTSTAMP:20260116T202111Z
+UID:2pqg99mlndensbqf2vr53jjtfs_R20260120T150000@google.com
+CREATED:20240731T091142Z
+DESCRIPTION:Dear all\,\n\nYou have raised interest in participating in the "Rust" Special Interest Group in Eclipse SDV and are hereby invited to the regular meetings of this SIG.\n\nDial-in information using Zoom can be found below.\n\nThe Agenda will be created for each session and communicated accordingly before the respective meeting.\n\nAll the resources gathered so far as part of this SIG can be found in the Rust SIG folder:\nhttps://drive.google.com/drive/folders/1Ub0qTLKvTFilPC9TFVEdTyWn_9qJ-vYD\n\nGitHub repo:\nhttps://github.com/rust-sig/rust-sig/\n\nLet us know in case you are aware that somebody is interested in joining who is not on the list of invitees.\n\nSDV WG Meeting is inviting you to a scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://eclipse.zoom.us/j/81362303435?pwd=zZ4ZsbuW7cQ8xTFZVTSfacEobXoYCB.1\n\nMeeting ID: 813 6230 3435\nPasscode: 007316\n\n---\n\nOne tap mobile\n+16892781000\,\,81362303435# US\n+17193594580\,\,81362303435# US\n\n---\n\nDial by your location\n• +1 689 278 1000 US\n• +1 719 359 4580 US\n• +1 253 205 0468 US\n• +1 253 215 8782 US (Tacoma)\n• +1 301 715 8592 US (Washington DC)\n• +1 305 224 1968 US\n• +1 309 205 3325 US\n• +1 312 626 6799 US (Chicago)\n• +1 346 248 7799 US (Houston)\n• +1 360 209 5623 US\n• +1 386 347 5053 US\n• +1 507 473 4847 US\n• +1 564 217 2000 US\n• +1 646 876 9923 US (New York)\n• +1 646 931 3860 US\n• +1 669 444 9171 US\n• +1 669 900 6833 US (San Jose)\n\nMeeting ID: 813 6230 3435\n\nFind your local number: https://eclipse.zoom.us/u/kuQdwT9Pr
+LAST-MODIFIED:20260116T210000Z
+LOCATION:https://eclipse.zoom.us/j/81362303435?pwd=zZ4ZsbuW7cQ8xTFZVTSfacEobXoYCB.1
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:[sdv-SIG] Rust SIG recurring meeting
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

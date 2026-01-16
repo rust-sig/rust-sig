@@ -7,6 +7,12 @@
 | **Attendees** | Open to all |
 | **Calendar link** | Find the meeting within the [SDV-WG community calender](https://sdv.eclipse.org/get-engaged/) |
 
+You can also find the meeting as an `.ics` [here](./talks/eclipse-sdv-rust-sig-meeting.ics).
+
+## Watercooler Chat Schedule
+
+You can find this [here](./talks/2026-talk-schedule.md).
+
 ## Meeting policies
 
 We have agreed to follow some meeting policies. The intent is to allow participants to feel comfortable with being candid and foster open collaboration.
