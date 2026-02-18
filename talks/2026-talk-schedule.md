@@ -21,7 +21,7 @@ Please see [here](../MEETINGS.md) for more and how to join!
 | Eclipse Zenoh, and how it makes use of `unsafe` | Mar 17, 2026 | ChenYing Kuo (CY) / ZettaScale ✅ |  |
 | A Rant about C++ \<=\> Rust Interop | Mar 31, 2026 | Markus Hosch / BMW ✅ |  |
 | Putting Rust into practice in OpenSOVD | Apr 14, 2026 | Elena Gantner / Mercedes Benz |  |
-|  | Apr 28, 2026 |  |  |
+| Rust for ASIL D - are we there yet? | Apr 28, 2026 | Alex Senier / Ferrous Systems |  |
 |  | May 12, 2026 |  |  |
 |  | May 26, 2026 |  |  |
 |  | Jun 9, 2026 |  |  |
