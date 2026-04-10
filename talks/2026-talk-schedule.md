@@ -23,6 +23,6 @@ Please see [here](../MEETINGS.md) for more and how to join!
 | Putting Rust into practice in OpenSOVD | Apr 14, 2026 | Elena Gantner / Mercedes Benz ✅ |  |
 | How ready is Rust for ISO 26262 applications? A practical gap analysis | Apr 28, 2026 | Stefan Akatyschew / Anori Tech UG ✅ |  |
 | Rust for ASIL D - are we there yet? | May 12, 2026 | Alex Senier / Ferrous Systems ✅ |  |
-|  | May 26, 2026 |  |  |
+| Inserting WebAssembly between C++ and Rust for Fun and Profit | May 26, 2026 | Christof Petig / Aptiv ✅  |  |
 |  | Jun 9, 2026 |  |  |
 | Eclipse Zenoh, and how it makes use of `unsafe` | TBD | ChenYing Kuo (CY) / ZettaScale |  |
