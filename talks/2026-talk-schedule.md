@@ -25,7 +25,7 @@ Please see [here](../MEETINGS.md) for more and how to join!
 | Rust for ASIL D - are we there yet? | May 12, 2026 | Alex Senier / Ferrous Systems ✅ |  |
 | Inserting WebAssembly between C++ and Rust for Fun and Profit | May 26, 2026 | Christof Petig / Aptiv ✅  |  |
 | Shared Memory, in Rust, the Memory-Safe Language!? Yes: iceoryx2 | Jun 9, 2026 | Christian Eltzschig / ekxide  ✅ |  |
-|  | June 23, 2026 |  |  |
+| Zenoh + Rust + Microcontrollers = zenoh-nostd | June 23, 2026 | Angelo Corsaro / Eclipse Zenoh ✅ |  |
 |  | July 7, 2026 |  |  |
 |  | July 21, 2026 |  |  |
 |  | August 4, 2026 |  |  |
