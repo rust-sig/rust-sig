@@ -26,7 +26,7 @@ Please see [here](../MEETINGS.md) for more and how to join!
 | Inserting WebAssembly between C++ and Rust for Fun and Profit | May 26, 2026 | Christof Petig / Aptiv ✅  |  |
 | Shared Memory, in Rust, the Memory-Safe Language!? Yes: iceoryx2 | Jun 9, 2026 | Christian Eltzschig / ekxide  ✅ |  |
 | Zenoh + Rust + Microcontrollers = zenoh-nostd | June 23, 2026 | Angelo Corsaro / Eclipse Zenoh ✅ |  |
-|  | July 7, 2026 |  |  |
+| Dust DDS: A native Rust implementation of the DDS middleware | July 7, 2026 | Joao Rebelo / S2E Systems ✅|  |
 |  | July 21, 2026 |  |  |
 |  | August 4, 2026 |  |  |
 |  | August 18, 2026 |  |  |
