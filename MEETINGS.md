@@ -5,7 +5,7 @@
 | When | Every second Tuesday at 4:00pm CET (14:00UTC) |
 | :----- | :----- |
 | **Attendees** | Open to all |
-| **Calendar link** | Find the meeting within the [SDV-WG community calender](https://sdv.eclipse.org/get-engaged/) |
+| **Calendar link** | Find the meeting within the [SDV-WG community calendar](https://eclipsesdv.org/get-involved/) |
 
 You can also find the meeting as an `.ics` [here](./talks/eclipse-sdv-rust-sig-meeting.ics).
 
