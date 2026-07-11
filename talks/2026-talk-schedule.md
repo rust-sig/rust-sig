@@ -28,7 +28,7 @@ Please see [here](../MEETINGS.md) for more and how to join!
 | Zenoh + Rust + Microcontrollers = zenoh-nostd | June 23, 2026 | Angelo Corsaro / Eclipse Zenoh ✅ |  |
 | Dust DDS: A native Rust implementation of the DDS middleware | July 7, 2026 | Joao Rebelo / S2E Systems ✅|  |
 | Fuzzing Eclipse Zenoh | July 21, 2026 | ChenYing Kuo (CY) / ZettaScale ✅ |  |
-|  | August 4, 2026 |  |  |
+| Unsafe Rust Code: From Encapsulation to Verification | August 4, 2026 | Hui Xu / Fudan University ✅ |  |
 |  | August 18, 2026 |  |  |
 |  | August 23, 2026 |  |  |
 |  | September 1, 2026 |  |  |
