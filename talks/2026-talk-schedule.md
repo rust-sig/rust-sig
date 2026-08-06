@@ -29,6 +29,10 @@ Please see [here](../MEETINGS.md) for more and how to join!
 | Dust DDS: A native Rust implementation of the DDS middleware | July 7, 2026 | Joao Rebelo / S2E Systems ✅|  |
 | Fuzzing Eclipse Zenoh with Rust, cargo-fuzz, and OSS-Fuzz | July 21, 2026 | ChenYing Kuo (CY) / ZettaScale ✅ |  |
 | Unsafe Rust Code: From Encapsulation to Verification | August 4, 2026 | Hui Xu / Fudan University ✅ |  |
-|  | August 18, 2026 |  |  |
-|  | August 23, 2026 |  |  |
+| Stable allocators, one unsoundness at a time | August 18, 2026 | Nia Deckers / Hexcat ✅ |  |
 |  | September 1, 2026 |  |  |
+|  | September 15, 2026 |  |  |
+|  | September 29, 2026 |  |  |
+|  | October 13, 2026 |  |  |
+|  | October 27, 2026 |  |  |
+|  | November 10, 2026 |  |  |
