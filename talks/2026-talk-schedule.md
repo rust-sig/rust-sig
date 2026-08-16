@@ -30,7 +30,7 @@ Please see [here](../MEETINGS.md) for more and how to join!
 | Fuzzing Eclipse Zenoh with Rust, cargo-fuzz, and OSS-Fuzz | July 21, 2026 | ChenYing Kuo (CY) / ZettaScale ✅ |  |
 | Unsafe Rust Code: From Encapsulation to Verification | August 4, 2026 | Hui Xu / Fudan University ✅ |  |
 | Stable allocators, one unsoundness at a time | August 18, 2026 | Nia Deckers / Hexcat ✅ |  |
-| Maintaining the FLS: The Doc used to Safety-Qualify the Rust Compiler | September 1, 2026 | Tshepang Mbambo / Ferrous Systems ✅ |  |
+| FLS: Describing Rust for Functional Safety | September 1, 2026 | Tshepang Mbambo / Ferrous Systems ✅ |  |
 |  | September 15, 2026 |  |  |
 |  | September 29, 2026 |  |  |
 |  | October 13, 2026 |  |  |
