@@ -32,7 +32,7 @@ Please see [here](../MEETINGS.md) for more and how to join!
 | Stable allocators, one unsoundness at a time | August 18, 2026 | Nia Deckers / Hexcat ✅ |  |
 | FLS: Describing Rust for Functional Safety | September 1, 2026 | Tshepang Mbambo / Ferrous Systems ✅ |  |
 |  | September 15, 2026 |  |  |
-|  | September 29, 2026 |  |  |
+| Rust Commercial Network - Connecting Industrial Users of Rust | September 29, 2026 | Lori Lorusso / Rust Foundation; David Wood / ARM ✅ |  |
 |  | October 13, 2026 |  |  |
 |  | October 27, 2026 |  |  |
 |  | November 10, 2026 |  |  |
