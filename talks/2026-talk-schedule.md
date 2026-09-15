@@ -31,7 +31,7 @@ Please see [here](../MEETINGS.md) for more and how to join!
 | Unsafe Rust Code: From Encapsulation to Verification | August 4, 2026 | Hui Xu / Fudan University ✅ |  |
 | Stable allocators, one unsoundness at a time | August 18, 2026 | Nia Deckers / Hexcat ✅ |  |
 | FLS: Describing Rust for Functional Safety | September 1, 2026 | Tshepang Mbambo / Ferrous Systems ✅ |  |
-|  | September 15, 2026 |  |  |
+| Rust is (Un)safe: Writing Safety-Critical Coding Guidelines | September 15, 2026 | Pete LeVasseur / Woven by Toyota ✅ |  |
 | Rust Commercial Network - Connecting Industrial Users of Rust | September 29, 2026 | Lori Lorusso / Rust Foundation; David Wood / Rust Project Director and a bajillion other Rust Project things ✅ |  |
 |  | October 13, 2026 |  |  |
 |  | October 27, 2026 |  |  |
