@@ -33,6 +33,6 @@ Please see [here](../MEETINGS.md) for more and how to join!
 | FLS: Describing Rust for Functional Safety | September 1, 2026 | Tshepang Mbambo / Ferrous Systems ✅ |  |
 | Rust is (Un)safe: Writing Safety-Critical Coding Guidelines | September 15, 2026 | Pete LeVasseur / Woven by Toyota ✅ |  |
 | Rust Commercial Network - Connecting Industrial Users of Rust | September 29, 2026 | Lori Lorusso / Rust Foundation; David Wood / Rust Project Director and a bajillion other Rust Project things ✅ |  |
-|  | October 13, 2026 |  |  |
-|  | October 27, 2026 |  |  |
+| Rust Training: Thoughts from Three Varied Sessions | October 13, 2026 | Pete LeVasseur / Woven by Toyota ✅ |  |
+| Rust Commercial Network - Connecting Industrial Users of Rust | October 27, 2026 | Lori Lorusso / Rust Foundation; David Wood / Rust Project Director and a bajillion other Rust Project things ✅ |  |
 |  | November 10, 2026 |  |  |
