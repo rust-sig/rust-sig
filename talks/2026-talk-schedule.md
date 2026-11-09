@@ -35,4 +35,6 @@ Please see [here](../MEETINGS.md) for more and how to join!
 | Rust Commercial Network - Connecting Industrial Users of Rust | September 29, 2026 | Lori Lorusso / Rust Foundation; David Wood / Rust Project Director and a bajillion other Rust Project things ✅ |  |
 | Rust Training: Thoughts from Three Varied Sessions | October 13, 2026 | Pete LeVasseur / Woven by Toyota ✅ |  |
 | Rust Commercial Network - Connecting Industrial Users of Rust | October 27, 2026 | Lori Lorusso / Rust Foundation; David Wood / Rust Project Director and a bajillion other Rust Project things ✅ |  |
-|  | November 10, 2026 |  |  |
+| High Performance Rust Apps in Automotive (and some agentic stuff!?) | November 10, 2026 | Aaron Hamilton ✅ |  |
+|  | November 17, 2026 |  |  |
+|  | November 24, 2026 |  |  |
