@@ -36,5 +36,5 @@ Please see [here](../MEETINGS.md) for more and how to join!
 | Rust Training: Thoughts from Three Varied Sessions | October 13, 2026 | Pete LeVasseur / Woven by Toyota ✅ |  |
 | Rust Commercial Network - Connecting Industrial Users of Rust | October 27, 2026 | Lori Lorusso / Rust Foundation; David Wood / Rust Project Director and a bajillion other Rust Project things ✅ |  |
 | High Performance Rust Apps in Automotive (and some agentic stuff!?) | November 10, 2026 | Aaron Hamilton ✅ |  |
-| *No Talk this Week, for US Thanksgiving Holiday* | November 24, 2026 |  |  |
+| *No Talk this Week, for US Thanksgiving Holiday* 🦃 | November 24, 2026 |  |  |
 |  | December 8, 2026 |  |  |
